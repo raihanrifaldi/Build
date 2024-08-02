@@ -1,11 +1,10 @@
-# Build
-Build Minecraft Server wit Google Cloud 100% FREE
+# Build Minecraft Server with Google Cloud
 
 ```sh-session
 
 ```
 
-**Task 1. Create the VM**
+# **Task 1. Create the VM**
 Define a VM using advanced options
 1. In the Cloud Console, on the Navigation menu (Navigation menu), click **Compute Engine** > **VM instances**.
 2. Click **Create Instance**.
