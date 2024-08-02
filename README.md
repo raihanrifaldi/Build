@@ -11,8 +11,9 @@ Define a VM using advanced options
 2. Click **Create Instance**.
 3. Specify the following and leave the remaining settings as their defaults:
 
-| Name | mc-server |
+| Property | Value |
 | --- | --- |
+| Name | mc-server |
 | Region | `REGION` |
 | Zone | `ZONE` |
 | Boot disk | Debian GNU/Linux 12 (bookworm) |
