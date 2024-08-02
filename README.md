@@ -12,6 +12,7 @@ Define a VM using advanced options
 3. Specify the following and leave the remaining settings as their defaults:
 
 | Name | mc-server |
+| --- | --- |
 | Region | `REGION` |
 | Zone | `ZONE` |
 | Boot disk | Debian GNU/Linux 12 (bookworm) |
